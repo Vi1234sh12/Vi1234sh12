@@ -1,5 +1,7 @@
 Hi , I'm Vishal 
 
+![Scala gif](https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/main/Scala.gif)
+
 
 I'm a Tech Enthusiast 😎 who is passionate about understanding the core concepts behind different popular Technological Fields like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Networking, etc. ✨
 
@@ -18,4 +20,3 @@ Sharing achievements and working updates on LinkedIn 🏆🥇⏱👨‍✈️
 
 https://www.linkedin.com/in/vishal-dhanure-33769916a/
 
-![Scala gif](https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/main/Scala.gif)
