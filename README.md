@@ -1,4 +1,6 @@
-# Protfolio.gif
+Hi , I'm Vishal 
+
+
 I'm a Tech Enthusiast 😎 who is passionate about understanding the core concepts behind different popular Technological Fields like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Networking, etc. ✨
 
 Specific fields of interest include 🔥 :
