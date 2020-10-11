@@ -1,6 +1,6 @@
 Hi , I'm Vishal 
 
-<img src="https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/main/Scala.gif" alt="Portfolio Template that says Raktim Midya - Tech Enthusiast alongside a cartoon illustration of Vishal"><img src="https://media.giphy.com/media/UA8wNDvJEPb5wvD2Ag/giphy.gif" alt="Portfolio Template that says Raktim Midya - Tech Enthusiast alongside a cartoon illustration of Vishal">
+<img src="https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/main/Scala.gif" alt="Portfolio  - Tech Enthusiast alongside a cartoon illustration of Vishal">
 
 I'm a Tech Enthusiast 😎 who is passionate about understanding the core concepts behind different popular Technological Fields like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Networking, etc. ✨
 
