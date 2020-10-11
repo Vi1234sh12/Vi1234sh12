@@ -18,3 +18,4 @@ Sharing achievements and working updates on LinkedIn 🏆🥇⏱👨‍✈️
 
 https://www.linkedin.com/in/vishal-dhanure-33769916a/
 
+![Scala gif](https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/main/Scala.gif)
