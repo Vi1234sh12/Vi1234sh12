@@ -13,6 +13,8 @@ Check out my works and achievements around the Web 🌎 :
 Writing Technical Blogs on <a href="https://medium.com/https:/@vishald41234">Medium </a> ✍📃📚💼
 
 - Sharing achievements and working updates on <a href="https://www.linkedin.com/in/vishal-dhanure-33769916a">LinkedIn </a> 🏆🥇⏱👨‍✈️
-[![Vishal  github stats](https://github-readme-stats.vercel.app/api?username=Vi1234sh12)](https://github.com/Vi1234sh12/github-readme-stats)
 
 
+
+
+![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vi1234sh12&show_icons=true&theme=radical)
