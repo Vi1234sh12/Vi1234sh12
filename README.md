@@ -1,4 +1,4 @@
-Hi , I'm Vishal 
+ <h1>Hi , I'm Vishal </h1> 
 
 <img src="https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/main/Scala.gif" alt="Portfolio  - Tech Enthusiast alongside a cartoon illustration of Vishal">
 
