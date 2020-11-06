@@ -8,6 +8,7 @@ Specific fields of interest include 🔥 :
 
 Competitive Programming | RedHat Linux | Data analytics & analysis | Machine Learning  | Computer Vision | Jenkins | Docker | Kubernetes | Git & GitHub | Prometheus & Grafana | ELK Stack | Amazon AWS | Microsoft Azure | Google GCP  | Ansible | OpenShift etc.
 
+
 Check out my works and achievements around the Web 🌎 :
 
 Writing Technical Blogs on <a href="https://medium.com/https:/@vishald41234">Medium </a> ✍📃📚💼
@@ -16,5 +17,4 @@ Writing Technical Blogs on <a href="https://medium.com/https:/@vishald41234">Med
 
 
 
-
-![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vi1234sh12&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1234sh12&layout=compact)](https://github.com/Vi1234sh12/github-readme-stats)   ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vi1234sh12&show_icons=true&theme=radical)
