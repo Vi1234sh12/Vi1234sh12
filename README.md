@@ -1,5 +1,6 @@
  <h1>Hi , I'm Vishal </h1> 
-<img src="https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/main/Scala.gif" alt="Portfolio  - Tech Enthusiast alongside a cartoon illustration of Vishal">
+ <img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/Vishal_Readme.jpg" alt="Portfolio - Tech Enthusiast alongside a cartoon illustration of Vishal ">
+<!--<img src="https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/main/Scala.gif" alt="Portfolio  - Tech Enthusiast alongside a cartoon illustration of Vishal">
 
 I'm a Tech Enthusiast 😎 who is passionate about understanding the core concepts behind different popular Technological Fields like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Networking, etc. ✨
 
@@ -25,7 +26,7 @@ Specific fields of interest include 🔥 :
 
  Writing Technical Blogs on <a href="https://medium.com/https:/@vishald41234">Medium </a> ✍📃📚💼
 
-- Sharing achievements and working updates on <a href="https://www.linkedin.com/in/vishal-dhanure-33769916a">LinkedIn </a> 🏆🥇⏱👨‍✈️
+ Sharing achievements and working updates on <a href="https://www.linkedin.com/in/vishal-dhanure-33769916a">LinkedIn </a> 🏆🥇⏱👨‍✈️
 
 <a href="https://github.com/Vi1234sh12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1234sh12&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
