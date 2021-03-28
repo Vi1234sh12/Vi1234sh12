@@ -35,6 +35,16 @@ Specific fields of interest include 🔥 :
 <a href="https://github.com/Vi1234sh12">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vi1234sh12&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+### Honors & Awards 🏅
+
+
+- Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) in 2019 & 2020.
+-  Selected as a scholarship recipient for [Open Networking & Edge Summit 2020 Virtual](https://events.linuxfoundation.org/archive/2020/open-networking-edge-summit-north-america/) in 2020.
+-   Selected as a scholarship recipient for [Open Source Summit + Embedded Linux Conference Europe 2020](https://events.linuxfoundation.org/archive/2020/open-source-summit-europe/)
+-   Attending Open Source Event  [ RedHat Summit 2020 & Github Universe 2020 ](https://githubuniverse.com/) in 2020.
+
+<br />
 <div align="center">
   <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
 </div>
