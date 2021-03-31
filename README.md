@@ -28,7 +28,11 @@ Specific fields of interest include 🔥 :
  Writing Technical Blogs on <a href="https://medium.com/https:/@vishald41234">Medium </a> ✍📃📚💼
 
  Sharing achievements and working updates on <a href="https://www.linkedin.com/in/vishal-dhanure-33769916a">LinkedIn </a> 🏆🥇⏱👨‍✈️
-
+ 
+### GitHub Trophies 🏆
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img  src="https://github-profile-trophy.vercel.app/?username=Vi1234sh12&theme=gruvbox" />
+  </a>
 <a href="https://github.com/Vi1234sh12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1234sh12&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
