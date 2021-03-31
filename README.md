@@ -40,6 +40,16 @@ Specific fields of interest include 🔥 :
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vi1234sh12&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+### 📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Kubernetes vs Docker Swarm: Comparison of the Two Giants in Container Orchestration] https://www.linkedin.com/posts/vishal-dhanure_devopsworld-learning-dockerswarm-activity-6761934718847004672-Bgxd
+- [What is Artificial Intelligence ? and what is history of AI ?] https://www.linkedin.com/posts/vishal-dhanure_artificialintelligence-ai-machinelearning-activity-6670179507883921409-8YxL
+- [Launching One Instance with IIS server] https://www.linkedin.com/posts/vishal-dhanure_launching-one-windows-instance-with-iis-server-activity-6696063094717747200-MX4V
+- [How to Use Network Manager on OpenSUSE] https://www.linkedin.com/posts/vishal-dhanure_how-to-use-network-manager-on-opensuse-activity-6672547176184463360-9zkU
+- [Install a LAMP Web Server on Amazon Linux 2] https://medium.com/@vishald41234/install-a-lamp-web-server-on-amazon-linux-2-f067084c4496
+
+<!-- BLOG-POST-LIST:END -->
+
 ### Honors & Awards 🏅
 
 
