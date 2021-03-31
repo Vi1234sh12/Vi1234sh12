@@ -33,12 +33,15 @@ Specific fields of interest include 🔥 :
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img  src="https://github-profile-trophy.vercel.app/?username=Vi1234sh12&theme=gruvbox" />
   </a>
+  
+ <div>
 <a href="https://github.com/Vi1234sh12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1234sh12&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Vi1234sh12">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vi1234sh12&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+ </div>
 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
