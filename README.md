@@ -60,6 +60,9 @@ Specific fields of interest include 🔥 :
 -  Selected as a scholarship recipient for [Open Networking & Edge Summit 2020 Virtual](https://events.linuxfoundation.org/archive/2020/open-networking-edge-summit-north-america/) in 2020.
 -   Selected as a scholarship recipient for [Open Source Summit + Embedded Linux Conference Europe 2020](https://events.linuxfoundation.org/archive/2020/open-source-summit-europe/)
 -   Attending Open Source Event  [ RedHat Summit 2020 & Github Universe 2020 ](https://githubuniverse.com/) in 2020.
+-   Attending Open Source Event [RedHat Virtual Summit 2021 ](https://www.redhat.com/en/summit) in 2021
+
+
 
 <br />
 <div align="center">
