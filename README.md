@@ -62,7 +62,7 @@ Specific fields of interest include 🔥 :
 -   Attending Open Source Event  [ RedHat Summit 2020 & Github Universe 2020 ](https://githubuniverse.com/) in 2020.
 -   Attending Open Source Event [RedHat Virtual Summit 2021 ](https://www.redhat.com/en/summit) in 2021
 
-<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/RedHatOpenSourceContributor%20(3).png" height="40%" width="50%" align="right"/> 
+<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/RedHatOpenSourceContributor%20(3).png" height="40%" width="50%" align="Center"/> 
 <img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/rectangle%20(2).png" />
 
 <br />
