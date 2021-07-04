@@ -45,12 +45,12 @@ Specific fields of interest include 🔥 :
 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- 
 - [Kubernetes vs Docker Swarm: Comparison of the Two Giants in Container Orchestration] https://www.linkedin.com/posts/vishal-dhanure_devopsworld-learning-dockerswarm-activity-6761934718847004672-Bgxd
 - [What is Artificial Intelligence ? and what is history of AI ?] https://www.linkedin.com/posts/vishal-dhanure_artificialintelligence-ai-machinelearning-activity-6670179507883921409-8YxL
 - [Launching One Instance with IIS server] https://www.linkedin.com/posts/vishal-dhanure_launching-one-windows-instance-with-iis-server-activity-6696063094717747200-MX4V
 - [How to Use Network Manager on OpenSUSE] https://www.linkedin.com/posts/vishal-dhanure_how-to-use-network-manager-on-opensuse-activity-6672547176184463360-9zkU
 - [Install a LAMP Web Server on Amazon Linux 2] https://medium.com/@vishald41234/install-a-lamp-web-server-on-amazon-linux-2-f067084c4496
+- [ Why Edge Computing future cloud ] https://www.linkedin.com/pulse/why-edge-computing-future-cloud-vishal-dhanure-/
 - [My Journey being part RHOSC 2021] https://www.linkedin.com/pulse/my-journey-being-part-rhosc-2021-vishal-dhanure-/?trackingId=Xdw0uPq0REysgnBjFV1Vkw%3D%3D
 
 <!-- BLOG-POST-LIST:END -->
