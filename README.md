@@ -65,9 +65,9 @@ Specific fields of interest include 🔥 :
 -   Attending Open Source Event [RedHat Virtual Summit 2021 ](https://www.redhat.com/en/summit) in 2021
 -   GSSOC'21 Open Source Program Rank 107 / 2000 
 
-<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/RedHatOpenSourceContributor%20(3).png" height="40%" width="50%" align="Center"/> 
+<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/RedHatOpenSourceContributor%20(3).png" height="40%" width="50%" align="Center"/> <a href="https://app.daily.dev/Vi1234sh12_"><img src="https://api.daily.dev/devcards/cba718ab54fb4facb6aa89666e5f2386.png?r=me8" width="400" alt="Vishal Ramesh Dhanure's Dev Card"/></a>
 <img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/rectangle%20(2).png" />
-<a href="https://app.daily.dev/Vi1234sh12_"><img src="https://api.daily.dev/devcards/cba718ab54fb4facb6aa89666e5f2386.png?r=me8" width="400" alt="Vishal Ramesh Dhanure's Dev Card"/></a>
+
 
 <br />
 <div align="center">
