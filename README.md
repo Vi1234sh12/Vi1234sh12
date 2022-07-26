@@ -3,6 +3,11 @@
 
 I'm a Tech Enthusiast 😎 who is passionate about understanding the core concepts behind different popular Technological Fields like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Networking, etc. ✨
 
+<div align="center">
+  <a  href="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/giphy.gif">
+    <img width="50%" src="./giphy.gif">
+  </a>
+</div>
 Specific fields of interest include 🔥 :
 
 ## 🔧 Technologies & Tools
