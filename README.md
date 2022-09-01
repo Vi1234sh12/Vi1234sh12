@@ -70,7 +70,8 @@ Specific fields of interest include 🔥 :
 -   Selected for a Scholarship recipient for The Shubhra Kar  [Linux Foundation Training (LiFT)](https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/) Scholarship in 2022 
 -   Qualified ( Qualification Round ) to Round 1 of the Meta Hacker Cup, and secured 7,424 th Rank Globally
 
-<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/RedHatOpenSourceContributor%20(3).png" height="40%" width="50%" align="Center"/> <a href="https://app.daily.dev/Vi1234sh12_"><img src="https://api.daily.dev/devcards/cba718ab54fb4facb6aa89666e5f2386.png?r=me8" width="400" alt="Vishal Ramesh Dhanure's Dev Card"/></a>
+<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/RedHatOpenSourceContributor%20(3).png" height="40%" width="50%" align="Center"/>
+<a href="https://app.daily.dev/Vi1234sh12_"><img src="https://api.daily.dev/devcards/cba718ab54fb4facb6aa89666e5f2386.png?r=me8" width="400" alt="Vishal Ramesh Dhanure's Dev Card"/></a>
 <img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/rectangle%20(2).png" />
 
 
