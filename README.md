@@ -60,6 +60,9 @@ Specific fields of interest include 🔥 :
 
 ### Honors & Awards 🏅
 
+- 🎓 **Selected Fellow – [McKinsey Forward Program (2025)](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-forward-program)**  
+  Selected from over **100,000 global applicants** for the prestigious McKinsey Forward Program — a global learning journey focused on leadership, communication, and problem-solving with participants from **60+ countries**.  
+  [🟦 McKinsey Badge on Credly](https://www.credly.com/badges/08e48f6d-f8b5-49b3-9a88-33df740b7b74)
 
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) in 2019 & 2020.
 -  Selected as a scholarship recipient for [Open Networking & Edge Summit 2020 Virtual](https://events.linuxfoundation.org/archive/2020/open-networking-edge-summit-north-america/) in 2020.
