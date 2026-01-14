@@ -60,6 +60,21 @@ Specific fields of interest include 🔥 :
 
 ### Honors & Awards 🏅
 
+## ⚛️ Latest Quantum Achievements (2025)
+
+- 🧠 **Qniverse Developer Certification – C-DAC Bengaluru (2025)**  
+  Successfully earned certification demonstrating hands-on expertise in **quantum computing concepts, algorithms, and development tools**.  
+  🏆 Issued by **Centre for Development of Advanced Computing (C-DAC)**
+
+- ⚛️ **Certificate of Participation – QubitHub × IBM Qiskit Fall Fest (2025)**  
+  Participated in a global quantum computing program focused on **Qiskit, quantum circuits, and real-world quantum applications**.  
+  🔗 [View LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7397484201446404096/)
+
+- 🌍 **“Quantum for Everyone” – Quantum Delta NL**  
+  Completed an **international 2-hour course** designed by **Quantum Delta NL** in collaboration with  
+  *Istanbul Technical University, UNICC, and the Lowercase Foundation*, focused on **democratizing quantum education**.
+
+
 - 🎓 **Selected Fellow – [McKinsey Forward Program (2025)](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-forward-program)**  
   Selected from over **100,000 global applicants** for the prestigious McKinsey Forward Program — a global learning journey focused on leadership, communication, and problem-solving with participants from **60+ countries**.  
   [🟦 McKinsey Badge on Credly](https://www.credly.com/badges/08e48f6d-f8b5-49b3-9a88-33df740b7b74)
