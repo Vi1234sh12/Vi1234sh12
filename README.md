@@ -74,6 +74,8 @@ Specific fields of interest include 🔥 :
   Completed an **international 2-hour course** designed by **Quantum Delta NL** in collaboration with  
   *Istanbul Technical University, UNICC, and the Lowercase Foundation*, focused on **democratizing quantum education**.
 
+  - ⚛️ **Quantum Computing Certification – C-DAC Hyderabad × IIT Roorkee (2025)**  
+  Successfully completed a **1-month intensive Quantum Computing course** organized by **C-DAC Hyderabad** and **IIT Roorkee**, supported by the **Ministry of Electronics & Information Technology (MeitY), Government of India**.  
 
 - 🎓 **Selected Fellow – [McKinsey Forward Program (2025)](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-forward-program)**  
   Selected from over **100,000 global applicants** for the prestigious McKinsey Forward Program — a global learning journey focused on leadership, communication, and problem-solving with participants from **60+ countries**.  
