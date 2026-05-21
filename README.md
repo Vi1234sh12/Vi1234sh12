@@ -29,8 +29,6 @@ role       : Security Researcher & Cryptographic Engineer
 focus      : Post-Quantum Cryptography · QRNG · Secure Systems
 location   : India 🇮🇳
 domain     : National-level digital infrastructure security
-research   : QRNG entropy hardening · ML-KEM-1024 · ML-DSA-87 · SP 800-90B
-building   : PQC-ready secure software suite (browser, VPN, video conf, chat)
 exploring  : FIPS 203/204 · Supply Chain Security · Crypto Agility
 ```
 
@@ -38,7 +36,6 @@ exploring  : FIPS 203/204 · Supply Chain Security · Crypto Agility
 
 - 🔐 Designing **post-quantum secure** communication stacks with ML-KEM & ML-DSA
 - ⚛️ Integrating **QRNG hardware** into Linux as production entropy subsystems
-- 📄 Authored research on **boot-time entropy hardening** for LUKS/initramfs
 - 🛡️ Building security-first apps for **sensitive & regulated** environments
 - 🌱 Deep-diving into **NIST PQC standards** and crypto-agility frameworks
 
