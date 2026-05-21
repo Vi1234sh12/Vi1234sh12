@@ -1,100 +1,208 @@
- <h1>Hi , I'm Vishal </h1> 
- 
-
-I'm a Tech Enthusiast 😎 who is passionate about understanding the core concepts behind different popular Technological Fields like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Networking, etc. ✨
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d4ff&height=200&section=header&text=Vishal%20Dhanure&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Security%20Researcher%20%7C%20Cryptographic%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=58&animation=fadeIn" />
+</div>
 
 <div align="center">
-  <a  href="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/giphy.gif">
-    <img width="50%" src="./giphy.gif">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Post-Quantum+Cryptography+Engineer+%F0%9F%94%90;QRNG+%2B+Linux+Security+Researcher+%E2%9A%9B%EF%B8%8F;Building+PQC-Ready+Secure+Systems+%F0%9F%9B%A1%EF%B8%8F;McKinsey+Forward+Fellow+%F0%9F%8F%86;Open+Source+%7C+Quantum+%7C+Security" alt="Typing SVG" />
   </a>
 </div>
-Specific fields of interest include 🔥 :
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+<br/>
 
+<div align="center">
 
- Check out my works and achievements around the Web 🌎 :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-dhanure-33769916a)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vishald41234)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vi1234sh12)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vi1234sh12&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Vi1234sh12)
 
- Writing Technical Blogs on <a href="https://medium.com/https:/@vishald41234">Medium </a> ✍📃📚💼
+</div>
 
- Sharing achievements and working updates on <a href="https://www.linkedin.com/in/vishal-dhanure-33769916a">LinkedIn </a> 🏆🥇⏱👨‍✈️
- 
-### GitHub Trophies 🏆
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img  src="https://github-profile-trophy.vercel.app/?username=Vi1234sh12&theme=gruvbox" />
-  </a>
-  
- <div>
-<a href="https://github.com/Vi1234sh12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1234sh12&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Vi1234sh12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vi1234sh12&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
- </div>
+---
 
-### 📕 **Latest Blog Posts**
+## 🧠 About Me
+
+```yaml
+name       : Vishal Dhanure
+role       : Security Researcher & Cryptographic Engineer
+focus      : Post-Quantum Cryptography · QRNG · Secure Systems
+location   : India 🇮🇳
+domain     : National-level digital infrastructure security
+research   : QRNG entropy hardening · ML-KEM-1024 · ML-DSA-87 · SP 800-90B
+building   : PQC-ready secure software suite (browser, VPN, video conf, chat)
+exploring  : FIPS 203/204 · Supply Chain Security · Crypto Agility
+```
+
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Vi1234sh12&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" width="55%"/>
+
+- 🔐 Designing **post-quantum secure** communication stacks with ML-KEM & ML-DSA
+- ⚛️ Integrating **QRNG hardware** into Linux as production entropy subsystems
+- 📄 Authored research on **boot-time entropy hardening** for LUKS/initramfs
+- 🛡️ Building security-first apps for **sensitive & regulated** environments
+- 🌱 Deep-diving into **NIST PQC standards** and crypto-agility frameworks
+
+<br clear="right"/>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### 🔐 Cryptography & Security
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,c&theme=dark)](https://skillicons.dev)
+
+![ML-KEM](https://img.shields.io/badge/ML--KEM-FIPS%20203-00d4ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOCA0IDgtNHYtN2wtOCA0LTgtNHoiLz48L3N2Zz4=)
+![ML-DSA](https://img.shields.io/badge/ML--DSA-FIPS%20204-00d4ff?style=flat-square)
+![QRNG](https://img.shields.io/badge/QRNG-SP%20800--90B-7c3aed?style=flat-square)
+![liboqs](https://img.shields.io/badge/liboqs-OQS--OpenSSL-7c3aed?style=flat-square)
+![SP 800-22](https://img.shields.io/badge/NIST-SP%20800--22-ef4444?style=flat-square)
+![LUKS](https://img.shields.io/badge/LUKS-Full%20Disk%20Encryption-ef4444?style=flat-square)
+
+### 💻 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,go,js,kotlin,bash,c,flask,postgres&theme=dark)](https://skillicons.dev)
+
+### 🛠️ DevOps & Cloud
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,androidstudio,git,github,vscode,qt&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 What I Work On
+
+> 🔒 *Most of my professional work is confidential — here's what I can share about the domains I operate in.*
+
+<table>
+<tr>
+<td width="50%">
+
+**🔐 Post-Quantum Cryptography**
+Designing PQC-ready communication stacks — VPN tunnels, messaging protocols, TLS upgrades using ML-KEM and ML-DSA. Crypto-agility layers for long-lifecycle systems.
+
+</td>
+<td width="50%">
+
+**⚛️ Quantum Entropy & Linux Security**
+QRNG hardware integration into Linux — kernel-level CUSE drivers, systemd services, SHA-512 authenticated entropy, and boot-time LUKS hardening.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛡️ Secure Application Development**
+Security-first desktop & mobile apps: encrypted storage, PQC certificate chains, authenticated sessions, and audit-ready logging for regulated environments.
+
+</td>
+<td width="50%">
+
+**🔬 Cryptographic Research & Standards**
+Applied research on entropy quality (SP 800-90B), statistical randomness (SP 800-22), and PQC migration — with standards-compliance documentation.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚛️ Quantum & Cryptography Achievements
+
+<div align="center">
+
+| 🏆 Achievement | 🏛️ Organization | 📅 Year |
+|---|---|---|
+| 🧠 Qniverse Developer Certification | C-DAC Bengaluru | 2025 |
+| ⚛️ Quantum Computing Certification | C-DAC Hyderabad × IIT Roorkee *(MeitY)* | 2025 |
+| 🌍 "Quantum for Everyone" | Quantum Delta NL × ITU × UNICC | 2025 |
+| 🎓 IBM Qiskit Fall Fest | QubitHub × IBM | 2025 |
+| 🏆 [McKinsey Forward Fellow](https://www.credly.com/badges/08e48f6d-f8b5-49b3-9a88-33df740b7b74) | McKinsey & Company *(top 100K+ global)* | 2025 |
+
+</div>
+
+---
+
+## 🏅 Open Source & Community
+
+<div align="center">
+
+| 🎖️ Recognition | 📌 Details |
+|---|---|
+| 🎟️ KubeCon + CloudNativeCon | Scholarship Recipient — 2019, 2020 |
+| 🎟️ Open Source Summit | Scholarship Recipient — NA 2019, 2020 · Europe 2020 |
+| 🎟️ Open Networking & Edge Summit | Scholarship Recipient — 2020 |
+| 🔴 Red Hat Summit | Attendee — 2020, 2021 |
+| 🐙 GitHub Universe | Attendee — 2020 |
+| 🌿 GSSoC'21 | Rank **107 / 2000** contributors |
+| 🐧 Linux Foundation LiFT Scholarship | Recipient — 2022 |
+| 🏁 Meta Hacker Cup | Rank **7,424 / 27,000** globally |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vi1234sh12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1234sh12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&hide=java,html" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vi1234sh12&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vi1234sh12&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes vs Docker Swarm: Comparison of the Two Giants in Container Orchestration] https://www.linkedin.com/posts/vishal-dhanure_devopsworld-learning-dockerswarm-activity-6761934718847004672-Bgxd
-- [What is Artificial Intelligence ? and what is history of AI ?] https://www.linkedin.com/posts/vishal-dhanure_artificialintelligence-ai-machinelearning-activity-6670179507883921409-8YxL
-- [Launching One Instance with IIS server] https://www.linkedin.com/posts/vishal-dhanure_launching-one-windows-instance-with-iis-server-activity-6696063094717747200-MX4V
-- [How to Use Network Manager on OpenSUSE] https://www.linkedin.com/posts/vishal-dhanure_how-to-use-network-manager-on-opensuse-activity-6672547176184463360-9zkU
-- [Install a LAMP Web Server on Amazon Linux 2] https://medium.com/@vishald41234/install-a-lamp-web-server-on-amazon-linux-2-f067084c4496
-- [ Why Edge Computing future cloud ] https://www.linkedin.com/pulse/why-edge-computing-future-cloud-vishal-dhanure-/
-- [My Journey being part RHOSC 2021] https://www.linkedin.com/pulse/my-journey-being-part-rhosc-2021-vishal-dhanure-/?trackingId=Xdw0uPq0REysgnBjFV1Vkw%3D%3D
-
+- 📦 [Kubernetes vs Docker Swarm — Comparison of the Two Giants](https://www.linkedin.com/posts/vishal-dhanure_devopsworld-learning-dockerswarm-activity-6761934718847004672-Bgxd)
+- 🤖 [What is Artificial Intelligence? History of AI](https://www.linkedin.com/posts/vishal-dhanure_artificialintelligence-ai-machinelearning-activity-6670179507883921409-8YxL)
+- ☁️ [Install a LAMP Web Server on Amazon Linux 2](https://medium.com/@vishald41234/install-a-lamp-web-server-on-amazon-linux-2-f067084c4496)
+- 🌐 [Why Edge Computing is the Future of Cloud](https://www.linkedin.com/pulse/why-edge-computing-future-cloud-vishal-dhanure-/)
+- 🎯 [My Journey Being Part of RHOSC 2021](https://www.linkedin.com/pulse/my-journey-being-part-rhosc-2021-vishal-dhanure-/)
 <!-- BLOG-POST-LIST:END -->
 
-### Honors & Awards 🏅
+---
 
-## ⚛️ Latest Quantum Achievements (2025)
+## 🏅 Badges & Certificates
 
-- 🧠 **Qniverse Developer Certification – C-DAC Bengaluru (2025)**  
-  Successfully earned certification demonstrating hands-on expertise in **quantum computing concepts, algorithms, and development tools**.  
-  🏆 Issued by **Centre for Development of Advanced Computing (C-DAC)**
-
-- ⚛️ **Certificate of Participation – QubitHub × IBM Qiskit Fall Fest (2025)**  
-  Participated in a global quantum computing program focused on **Qiskit, quantum circuits, and real-world quantum applications**.  
-  🔗 [View LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7397484201446404096/)
-
-- 🌍 **“Quantum for Everyone” – Quantum Delta NL**  
-  Completed an **international 2-hour course** designed by **Quantum Delta NL** in collaboration with  
-  *Istanbul Technical University, UNICC, and the Lowercase Foundation*, focused on **democratizing quantum education**.
-
-- ⚛️ **Quantum Computing Certification – C-DAC Hyderabad × IIT Roorkee (2025)**  
-  Successfully completed a **1-month intensive Quantum Computing course** organized by **C-DAC Hyderabad** and **IIT Roorkee**, supported by the **Ministry of Electronics & Information Technology (MeitY), Government of India**.  
-
-- 🎓 **Selected Fellow – [McKinsey Forward Program (2025)](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-forward-program)**  
-  Selected from over **100,000 global applicants** for the prestigious McKinsey Forward Program — a global learning journey focused on leadership, communication, and problem-solving with participants from **60+ countries**.  
-  [🟦 McKinsey Badge on Credly](https://www.credly.com/badges/08e48f6d-f8b5-49b3-9a88-33df740b7b74)
-
-- Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) in 2019 & 2020.
--  Selected as a scholarship recipient for [Open Networking & Edge Summit 2020 Virtual](https://events.linuxfoundation.org/archive/2020/open-networking-edge-summit-north-america/) in 2020.
--   Selected as a scholarship recipient for [Open Source Summit + Embedded Linux Conference Europe 2020](https://events.linuxfoundation.org/archive/2020/open-source-summit-europe/)
--   Attending Open Source Event  [ RedHat Summit 2020 & Github Universe 2020 ](https://githubuniverse.com/) in 2020.
--   Attending Open Source Event [RedHat Virtual Summit 2021 ](https://www.redhat.com/en/summit) in 2021
--   GSSOC'21 Open Source Program Rank 107 / 2000
--   Selected for a Scholarship recipient for The Shubhra Kar  [Linux Foundation Training (LiFT)](https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/) Scholarship in 2022 
--   Qualified ( Qualification Round ) to Round 1 of the Meta Hacker Cup, and secured 7,424 / 27,000 th Rank Globally
-
-<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/RedHatOpenSourceContributor%20(3).png" height="40%" width="50%" align="Center"/>
-<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/rectangle%20(2).png" />
-
-
-<br />
 <div align="center">
-  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
+
+<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/RedHatOpenSourceContributor%20(3).png" width="45%" />
+&nbsp;&nbsp;
+<img src="https://github.com/Vi1234sh12/Vi1234sh12/blob/main/rectangle%20(2).png" width="45%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:0d1117&height=120&section=footer" />
+
+</div>
+
+<div align="center">
+
+*🔐 "The quantum era is coming — build for it today."*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vi1234sh12/Vi1234sh12/output/github-snake.svg" />
+</picture>
+
 </div>
