@@ -110,6 +110,8 @@ Applied research on entropy quality (SP 800-90B), statistical randomness (SP 800
 
 | 🏆 Achievement | 🏛️ Organization | 📅 Year |
 |---|---|---|
+| ⚛️ [Qiskit Global Summer School 2026 — Quantum Excellence](https://www.credly.com/badges/06247911-e99d-4ffd-87da-f1bdcbb16357) | IBM Qiskit | 2026 |
+| 🌌 [IQM Quantum School](https://credsverse.com/credentials/ce8cb127-b15b-4538-9e7c-8efc98efb43d?preview=1) | IQM | 2026 |
 | 🧠 Qniverse Developer Certification | C-DAC Bengaluru | 2025 |
 | ⚛️ Quantum Computing Certification | C-DAC Hyderabad × IIT Roorkee *(MeitY)* | 2025 |
 | 🌍 "Quantum for Everyone" | Quantum Delta NL × ITU × UNICC | 2025 |
