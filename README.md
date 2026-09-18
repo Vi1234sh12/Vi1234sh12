@@ -57,6 +57,13 @@ exploring  : FIPS 203/204 · Supply Chain Security · Crypto Agility
 ![SP 800-22](https://img.shields.io/badge/NIST-SP%20800--22-ef4444?style=flat-square)
 ![LUKS](https://img.shields.io/badge/LUKS-Full%20Disk%20Encryption-ef4444?style=flat-square)
 
+### ⚛️ Quantum Computing
+![Quantum Computing](https://img.shields.io/badge/Quantum-Computing-7c3aed?style=flat-square&logo=qiskit&logoColor=white)
+![Quantum Algorithms](https://img.shields.io/badge/Quantum-Algorithms-00d4ff?style=flat-square)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![Quantum Circuits](https://img.shields.io/badge/Quantum-Circuits-7c3aed?style=flat-square)
+![Quantum Annealing](https://img.shields.io/badge/Quantum-Annealing-00d4ff?style=flat-square)
+
 ### 💻 Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,go,js,kotlin,bash,c,flask,postgres&theme=dark)](https://skillicons.dev)
 
